@@ -1,0 +1,5 @@
+
+网站一般使用ngxin+resin+redis+mysql的方式
+如果涉及到Java应用，可能需要用到Spring
+
+监控常用promethus+grafana,但是这种方式比较重。

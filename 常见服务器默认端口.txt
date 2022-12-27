@@ -8,3 +8,8 @@ redis 6379
 elasticsearch 服务端口9300 Web管理平台9200
 
 kibana 5601
+
+grafana 3000
+
+promethus 8090
+
