@@ -1,0 +1,10 @@
+
+mysql 3306
+
+rabbitmq 内部通信5672 外部通信15672->通过web方式进行连接
+
+redis 6379 
+
+elasticsearch 服务端口9300 Web管理平台9200
+
+kibana 5601
